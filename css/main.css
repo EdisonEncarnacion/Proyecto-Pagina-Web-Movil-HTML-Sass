@@ -8637,6 +8637,9 @@ header .avatar-container i {
   color: #ff7f00;
 }
 
+.profile-options-modal h1 {
+  font-size: 20px;
+}
 .profile-options-modal .profile-options-list {
   padding: 0;
   margin: 0;
